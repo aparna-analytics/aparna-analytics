@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello! I'm Aparna Srivastava
 
-<!--
-**aparna-analytics/aparna-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data & Business Analyst  
+📍 Based in Lucknow, India  
+💡 Passionate about using data to tell stories and drive decisions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+
+- 📊 Microsoft Excel – Dashboards, Pivot Tables, Charts, Slicers  
+- 📈 Power BI – Report building, DAX formulas, Visualizations  
+- 💾 SQL – Joins, Filtering, Group By, Subqueries  
+- 🐍 Python – Pandas, Data Cleaning, Matplotlib  
+- 🔍 Analytical Thinking – Root cause analysis, problem solving  
+- 💬 Communication – Reports, Presentations, Client interactions
+
+---
+
+## 📁 Projects I'm Working On
+
+- ✅ Sales Dashboard in Excel  
+- ✅ Website Analytics in Power BI  
+- ✅ SQL Queries for Customer Segmentation  
+- 🔜 More coming soon...
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/analyst-aparna-sri)
+- 📧 aparna23669074@email.com  
+- 💻 [GitHub](https://github.com/aparna-analytics)
+
+---
+
+_This GitHub profile is my digital notebook where I showcase projects, learnings, and hands-on experience. I'm currently open to internships, freelancing, and full-time roles related to data analytics._  
